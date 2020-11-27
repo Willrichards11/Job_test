@@ -1,0 +1,10 @@
+# user -> account 1 to many
+# sqlite
+# sqlalchemy
+# fastapi
+# pytest to test fastapi endpoints
+# post request to insert user
+# post request to add new account for given user id
+# get request to read account balances for given user id
+# write 1 behave test
+# send to tanya
