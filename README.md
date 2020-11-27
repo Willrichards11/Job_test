@@ -4,7 +4,6 @@
 
 Please install the following packages:
 
-## Execution
 
 - pip install behave
 - pip install uvicorn
@@ -14,7 +13,9 @@ Please install the following packages:
 - pip install pydantic
 - pip install unittest
 
-to execute the main code run:
+## Execution
+
+to execute the api, run:
 
 python app.py
 
