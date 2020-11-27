@@ -5,13 +5,9 @@
 Please install the following packages:
 
 
-- pip install behave
-- pip install uvicorn
-- pip install fastapi
-- pip install SQLAlchemy
-- pip install sqlalchemy-utils 
-- pip install pydantic
-- pip install unittest
+- behave, uvicorn, fastapi, SQLAlchemy, sqlalchemy-utils, pydantic, unittest
+
+By using 'pip install <package_name>'
 
 ## Execution
 
