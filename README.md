@@ -6,6 +6,13 @@ Please install the following packages:
 
 ## Execution
 
+- pip install behave
+- pip install uvicorn
+- pip install fastapi
+- pip install SQLAlchemy
+- pip install sqlalchemy-utils 
+- pip install pydantic
+- pip install unittest
 
 to execute the main code run:
 
